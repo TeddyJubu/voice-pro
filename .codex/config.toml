@@ -1,0 +1,5 @@
+[project]
+name = "voice-pro"
+
+[defaults]
+branch = "codex/mac-mvp-cloud-safe"
